@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16131238231",
+    "project_id": "dummy-learning-d9b22",
+    "storage_bucket": "dummy-learning-d9b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16131238231:android:96f5df8c46ff2a38487612",
+        "android_client_info": {
+          "package_name": "com.MKM.fireflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16131238231-32jna5qhbnn71lnqt8b8arj4frioopak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_-1BFh1YEFPYDqQ_0gWW8Amisr9y3bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16131238231-32jna5qhbnn71lnqt8b8arj4frioopak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
